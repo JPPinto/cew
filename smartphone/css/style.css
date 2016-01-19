@@ -82,7 +82,7 @@ body{
 }
 .top-grids h3{
 	text-align: center;
-	color: #FAC81B;
+	color: #545454;
 	font-weight: 700;
 	font-size: 1.5em;
 }
@@ -164,15 +164,15 @@ body{
 }
 .top-grid:hover .icon1,.top-grid:hover .icon2,.top-grid:hover .icon3,.top-grid:hover .icon4{
 	background:none;
-	border:2px solid #FAC81B;
+	border:2px solid #545454;
 }
 .top-grid:hover h4 a{
-	color:#FAC81B;
+	color:#545454;
 }
 .btn{
 	color:#FFF;
-	border: 1px solid #FAC81B;
-	border-left: 4px solid #FAC81B;
+	border: 1px solid #545454;
+	border-left: 4px solid #545454;
 	padding: 0.8em 2em;
 	display: inline-block;
 	margin: 1em 0;
@@ -194,7 +194,7 @@ body{
 .top-grids i{
 	height: 8px;
 	display: block;
-	background: #FAC81B;
+	background: #545454;
 	position: absolute;
 	top: 0px;
 	left: 44.8%;
@@ -215,7 +215,7 @@ body{
 }
 .works h3{
 	text-align: center;
-	color: #FAC81B;
+	color: #545454;
 	font-weight: 700;
 	font-size: 1.5em;
 	padding: 0em 0 1.2em 0;
@@ -227,7 +227,7 @@ body{
 .works i {
 	height: 8px;
 	display: block;
-	background: #FAC81B;
+	background: #545454;
 	position: absolute;
 	top: 0px;
 }
@@ -290,7 +290,7 @@ body{
 }
 .blog h3{
 	text-align: center;
-	color: #ECBA0B;
+	color: #464646;
 	font-weight: 700;
 	font-size: 1.5em;
 	padding: 0em 0 1.2em 0;
@@ -302,7 +302,7 @@ body{
 .blog i {
 	height: 8px;
 	display: block;
-	background: #FAC81B;
+	background: #545454;
 	position: absolute;
 	top: 0px;
 }
@@ -353,7 +353,7 @@ body{
 }
 .contact-info h3{
 	text-align: center;
-	color: #ECBA0B;
+	color: #464646;
 	font-weight: 700;
 	font-size: 1.5em;
 	padding: 1.5em 0 0.5em;
@@ -365,7 +365,7 @@ body{
 .contact-info i{
 	height: 8px;
 	display: block;
-	background: #FAC81B;
+	background: #545454;
 	position: absolute;
 	top: 0px;
 }
@@ -417,7 +417,7 @@ body{
 	-webkit-transition: border-color 0.3s;
 }
 .contact-info form input[type="text"]:hover,.contact-info form textarea:hover,.contact-info form input[type="text"]:focus,.contact-info form textarea:focus{
-	border-color:#ECB908;
+	border-color:#585858;
 }
 .contact-info form textarea{
 	width: 89%;
@@ -428,8 +428,8 @@ body{
 	padding:1em 0;
 }
 .contact-info input[type="submit"]{
-	border: 1px solid #FAC81B;
-	border-left: 4px solid #FAC81B;
+	border: 1px solid #545454;
+	border-left: 4px solid #545454;
 	background: #fff;
 	padding: 1em 2em;
 	font-family: 'Lato', sans-serif;

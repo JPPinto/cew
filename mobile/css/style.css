@@ -83,7 +83,7 @@ body{
 }
 .top-grids h3{
 	text-align: center;
-	color: #FAC81B;
+	color: #545454;
 	font-weight: 700;
 	font-size: 1.2em;
 }
@@ -138,8 +138,8 @@ body{
 }
 .btn{
 	color: #FFF;
-	border: 1px solid #FAC81B;
-	border-left: 4px solid #FAC81B;
+	border: 1px solid #545454;
+	border-left: 4px solid #545454;
 	padding: 0.4em 1em;
 	display: inline-block;
 	margin: 0.6em 0;
@@ -152,7 +152,7 @@ body{
 .top-grids i{
 	height: 8px;
 	display: block;
-	background: #FAC81B;
+	background: #545454;
 	position: absolute;
 	top: 0px;
 	left: 44.8%;
@@ -173,7 +173,7 @@ body{
 }
 .works h3{
 	text-align: center;
-	color: #FAC81B;
+	color: #545454;
 	font-weight: 700;
 	font-size: 1.2em;
 	padding: 0em 0 1.2em 0;
@@ -185,7 +185,7 @@ body{
 .works i {
 	height: 8px;
 	display: block;
-	background: #FAC81B;
+	background: #545454;
 	position: absolute;
 	top: 0px;
 }
@@ -249,7 +249,7 @@ body{
 }
 .blog h3{
 	text-align: center;
-	color: #ECBA0B;
+	color: #464646;
 	font-weight: 700;
 	font-size: 1.2em;
 	padding: 0em 0 1.2em 0;
@@ -261,7 +261,7 @@ body{
 .blog i {
 	height: 8px;
 	display: block;
-	background: #FAC81B;
+	background: #545454;
 	position: absolute;
 	top: 0px;
 }
@@ -304,7 +304,7 @@ body{
 }
 .contact-info h3{
 	text-align: center;
-	color: #ECBA0B;
+	color: #464646;
 	font-weight: 700;
 	font-size: 1.2em;
 	padding: 1.5em 0 0.5em;
@@ -316,7 +316,7 @@ body{
 .contact-info i{
 	height: 8px;
 	display: block;
-	background: #FAC81B;
+	background: #545454;
 	position: absolute;
 	top: 0px;
 }
@@ -376,8 +376,8 @@ body{
 	padding:1em 0;
 }
 .contact-info input[type="submit"]{
-	border: 1px solid #FAC81B;
-	border-left: 4px solid #FAC81B;
+	border: 1px solid #545454;
+	border-left: 4px solid #545454;
 	background: #fff;
 	padding: 1em 2em;
 	font-family: 'Lato', sans-serif;
@@ -489,8 +489,8 @@ body{
 }
 .slider-detils a{
 	color:#000;
-	border:1px solid #FAC81B;
-	border-left:4px solid #FAC81B;
+	border:1px solid #545454;
+	border-left:4px solid #545454;
 	font-size:0.875em;
 	padding:0.4em 0.8em;
 }

@@ -1,0 +1,5 @@
+Background: #5CB4CC
+Icons: #52A6BD
+Border: #545454
+Buttons-border: #585858
+Titles: #464646
