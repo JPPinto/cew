@@ -511,20 +511,20 @@
 	font-size: 2.2em;
 	font-weight: 300;
 	font-family: 'Lato', sans-serif;
-	width: 51%;
+	width: 100%;
 	line-height: 1.5em;
 }
 .slider-detils h3 label{
 	font-size: 1em;
 	font-weight: 700;
-	color: #F06D6E;
+	color: #5CB4CC;
 }
 .slider-detils span{
 	color: #3D3D39;
 	display: block;
 	font-size: 0.9em;
 	line-height:2em;
-	width: 41%;
+	width: 80%;
 	margin-top: 2%;
 	font-family: 'Lato', sans-serif;
 	font-weight:bold;

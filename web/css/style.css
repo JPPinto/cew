@@ -23,6 +23,8 @@ img{max-width:100%;}
 /*end reset*/
 body{
 	font-family: 'Open Sans', sans-serif;
+    /*font-family: nexaLight;
+    src: loca('nexaLight'), url('../fonts/Nexa Light.otf') format('opentype');*/
 	background:#FFF;
 	background:url(../images/banner.jpg) repeat-x 0px 0px #fff;
 }
@@ -43,7 +45,7 @@ body{
 }
 .logo{
 	float:left;
-	margin-top: 0.9em;
+	margin-top: 0.6em;
 }
 .top-nav{
 	float:right;
@@ -653,6 +655,8 @@ body{
 		margin-top: 0em;
 		text-align:center;
 		padding: 0.75em 0 0.3em;
+        height: 54px;
+        width: 54px;
 	}
 	body {
 		background:#fff;
