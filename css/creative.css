@@ -23,6 +23,9 @@ hr {
 hr.light {
     border-color: #fff;
 }
+hr.dark {
+    border-color: #000;
+}
 
 a {
     color: #5CB4CC;
@@ -74,6 +77,10 @@ aside {
 
 .no-padding {
     padding: 0;
+}
+
+.blue{
+    background-color: #5CB4CC;
 }
 
 .navbar-default {
@@ -274,7 +281,7 @@ header .header-content .header-content-inner p {
     text-align: center;
     color: #fff;
     opacity: 0;
-    background: rgba(240,95,64,.9);
+    background: rgba(92,180,204,0.9);
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
