@@ -64,6 +64,7 @@ p {
 }
 
 .text-faded {
+    text-align: justify;
     color: rgba(255,255,255,.9);
 }
 
@@ -81,6 +82,14 @@ aside {
 
 .blue{
     background-color: #5CB4CC;
+}
+
+.navbar-img {
+    width: 50px;
+}
+
+.partner-logo{
+    width: 60%;
 }
 
 .navbar-default {
@@ -198,6 +207,7 @@ header .header-content {
     width: 100%;
     padding: 100px 15px;
     text-align: center;
+    background-color: rgba(0, 0, 0, 0.65);
 }
 
 header .header-content .header-content-inner h1 {
@@ -230,6 +240,7 @@ header .header-content .header-content-inner p {
         -webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
         transform: translateY(-50%);
+        background-color: rgba(0, 0, 0, 0.65);
     }
 
     header .header-content .header-content-inner {
@@ -488,7 +499,7 @@ body {
 #MainDescription {
     color: rgba(20, 20, 20, 0.85);
     font-size: larger;
-    font-weight: 800;
+    font-weight: 500;
     font-family: sans-serif;
 }
 
