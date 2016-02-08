@@ -516,3 +516,35 @@ body {
 .partner-logo{
     width: 60%;
 }
+
+.headerRow {
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    text-align: center; 
+    /*padding-top: 17px;
+    padding-bottom: 17px;*/
+    border-bottom: 4px solid rgb(0,0,0);
+    background-color: #fff; 
+    color: rgb(0,0,0);
+    line-height: 52px;
+}
+
+.contentRow {
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    text-align: center; 
+    /*padding-top: 17px;
+    padding-bottom: 17px;*/
+    border-bottom: 4px solid rgb(0,0,0);
+    color: rgb(0,0,0);
+    line-height: 52px;
+    margin-top: 7px;
+}
+
+.schedule {
+    padding: 30px;
+    border: 8px solid rgb(255,255,255);
+}
+
+.stripped{
+    background-color: #6BDFFF
+}
+
