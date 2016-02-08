@@ -6,11 +6,12 @@ function initializeMap()
         document.getElementById("map-container"),
         {
             zoom: 15,
-            center: location
+            center: location,
+            scrollwheel: false
         }
     );
 
-    var marker = new google.maps.Marker(
+    new google.maps.Marker(
         {
             position: location,
             map: map,
